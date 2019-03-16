@@ -31,3 +31,10 @@ This outputs a CSV file with the following columns (in order):
 1. Medium moons
 1. Small moons
 1. Primary Star Type
+1. Safe Jump Distance
+1. Stellar mass (Solar masses)
+1. Charge Time (hours)
+1. Stellar radius (Solar radii)
+1. Stellar luminosity (Solar luminosities)
+1. Stellar temperature (K)
+1. Stellar lifetime (million years)

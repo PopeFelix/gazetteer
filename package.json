@@ -1,0 +1,29 @@
+{
+  "name": "gazetteer",
+  "version": "0.0.1",
+  "description": "Solar system generator using rules from Battletech: Campaign Operations",
+  "main": "gazetteer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PopeFelix/gazetteer.git"
+  },
+  "keywords": [
+    "battletech"
+  ],
+  "author": "Kit Peters",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/PopeFelix/gazetteer/issues"
+  },
+  "homepage": "https://github.com/PopeFelix/gazetteer#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
